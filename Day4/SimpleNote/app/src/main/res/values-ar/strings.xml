@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ملاحظات بسيطة</string>
+    <string name="noteTitle">العنوان</string>
+    <string name="nodeBody">النص</string>
+    <string name="close">إغلاق</string>
+    <string name="cancle">إغلاق</string>
+    <string name="submit">المتابعة</string>
+</resources>
