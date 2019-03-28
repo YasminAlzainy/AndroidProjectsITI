@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Threading</string>
+    <string name="Download">Download</string>
+    <string name="Next">Next</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+</resources>

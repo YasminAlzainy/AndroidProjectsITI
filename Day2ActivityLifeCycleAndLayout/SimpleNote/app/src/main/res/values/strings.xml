@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+    <string name="noteTitle">Note Title</string>
+    <string name="nodeBody">Node Body</string>
+    <string name="close">Close</string>
+    <string name="cancle">Cancel</string>
+    <string name="submit">Submit</string>
+</resources>

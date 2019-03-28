@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NoteWithDB</string>
+    <string name="noteTitle">Note Title</string>
+    <string name="nodeBody">Node Body</string>
+    <string name="close">Close</string>
+    <string name="cancle">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="userName">User Name</string>
+    <string name="Password">password</string>
+    <string name="Login">login</string>
+    <string name="Regist">regist</string>
+    <string name="saveInternal">Save Internal</string>
+    <string name="loadInternal">Load Internal</string>
+    <string name="saveSql">save Sql</string>
+    <string name="loadSqlBTN">Load Sql</string>
+</resources>
